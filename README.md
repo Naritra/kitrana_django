@@ -1,0 +1,3 @@
+# kitrana_django
+
+> * Juste entrainnement, mais on ne sait jamais...
